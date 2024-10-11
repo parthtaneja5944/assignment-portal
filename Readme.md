@@ -23,7 +23,7 @@ This project is a backend system built using Flask for managing user and admin r
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/assignment-portal.git
+   git clone https://github.com/parthtaneja5944/assignment-portal.git
    cd assignment-portal
    ```
 2. **Set up a Virtual Environment**
